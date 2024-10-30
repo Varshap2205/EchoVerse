@@ -15,3 +15,9 @@ EchoVerse is a dynamic blog platform that allows users to create, read, and mana
 - **Backend**: Express
 - **Database**: MongoDB
 - **Authentication**: JSON Web Tokens (JWT)
+
+![image](https://github.com/user-attachments/assets/b878d704-cd83-4c54-8839-a592da31b288)
+![image](https://github.com/user-attachments/assets/d7639f8b-b8d5-4af7-ae9a-d7875118d017)
+![image](https://github.com/user-attachments/assets/b7bbdd0e-76e4-466b-93c6-910b8d7f8a87)
+
+
